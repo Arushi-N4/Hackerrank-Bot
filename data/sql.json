@@ -1,0 +1,31 @@
+{
+    "easy": [
+        { "question": "Revising the Select-query", "link": "https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true" },
+        { "question": "Revising The Select-query-2", "link": "https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true" },
+        { "question": "Select All", "link": "https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true" },
+        { "question": "Select by ID", "link": "https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true"},
+        { "question": "Higher Than 75 Marks", "link": "https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true" },
+        { "question": "Japanese Cities' Names", "link": "https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true" },
+        { "question": "Japanese Cities' Attributes", "link": "https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true"},
+        { "question": "Average Population of Each Continent", "link": "https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true"},
+        { "question": "Japan Population", "link": "https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true"},
+        { "question": "The Blunder", "link": "https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true"},
+        { "question": "African Cities", "link": "https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true"},
+        { "question": "Average Population of Each Continent", "link": "https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true"}
+
+    ],
+    "medium": [
+        { "question": "Binary Tree Nodes", "link": "https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true" },
+        { "question": "New Companies", "link": "https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true" },
+        { "question": "The Report", "link": "https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true" },
+        { "question": "SQL Project Planning", "link": "https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true" },
+        { "question": "Symmetric Pairs", "link": "https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true" },
+        { "question": "Contest Leaderboard", "link": "https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true" },
+        { "question": "Placements", "link": "https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true" }
+
+    ],
+    "hard": [
+        { "question": "Interviews", "link": "https://www.hackerrank.com/challenges/interviews/problem?isFullScreen=true"},
+        { "question": "15 Days of Learning SQL", "link": "https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true"}
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "easy": [
+        { "question": "Arrays - DS", "link": "https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true" },
+        { "question": "2D Array - DS", "link": "https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true" },
+        { "question": "Dynamic Array", "link": "https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=true" },
+        { "question": "Left Rotation", "link": "https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true"},
+        { "question": "Print the Elements of a Linked List", "link": "https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem?isFullScreen=true"},
+        { "question": "Insert a node at a specific position in a linked list", "link": "https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?isFullScreen=true" },
+        { "question": "Tree: Preorder Traversal", "link": "https://www.hackerrank.com/challenges/tree-preorder-traversal/problem?isFullScreen=true"},
+        { "question": "Find Merge Point of Two Lists", "link": "https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem?isFullScreen=true"},
+        { "question": "Compare two linked lists", "link": "https://www.hackerrank.com/challenges/compare-two-linked-lists/problem?isFullScreen=true"},
+        { "question": "Print in Reverse", "link": "https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem?isFullScreen=true"}
+        
+    ],
+    "medium": [
+        { "question": "Sparse Arrays", "link": "https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true" },
+        { "question": "Cycle Detection", "link": "https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem?isFullScreen=true" },
+        { "question": "Tree: Huffman Decoding", "link": "https://www.hackerrank.com/challenges/tree-huffman-decoding/problem?isFullScreen=true" },
+        { "question": "Is This a Binary Search Tree?", "link": "https://www.hackerrank.com/challenges/is-binary-search-tree/problem?isFullScreen=true" },
+        { "question": "Self Balancing Tree", "link": "https://www.hackerrank.com/challenges/self-balancing-tree/problem?isFullScreen=true" },
+        { "question": "Queue using Two Stacks", "link": "https://www.hackerrank.com/challenges/queue-using-two-stacks/problem?isFullScreen=true" },
+        { "question": "Components in a graph", "link": "https://www.hackerrank.com/challenges/components-in-graph/problem?isFullScreen=true" }
+
+    ],
+    "hard": [
+        { "question": "Array Manipulation", "link": "https://www.hackerrank.com/challenges/crush/problem?isFullScreen=true"},
+        { "question": "Kitty's Calculations on a Tree", "link": "https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree/problem?isFullScreen=true"},
+        { "question": "Square-Ten Tree", "link": "https://www.hackerrank.com/challenges/square-ten-tree/problem?isFullScreen=true"},
+        { "question": "Balanced Forest", "link": "https://www.hackerrank.com/challenges/balanced-forest/problem?isFullScreen=true"}
+
+
+    ]
+}
